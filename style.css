@@ -14,7 +14,7 @@
             position: relative;
         }
         header img {
-            width: 100%;
+            width: auto;
             height: auto;
         }
         nav ul {
