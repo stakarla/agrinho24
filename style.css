@@ -26,7 +26,7 @@
             margin: 0 15px;
         }
         nav ul li a {
-            color: #ffffff;
+            color: #ffffff;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCj-llyKaG36OE9o2_jv8M_-S7SJagJJ1Bcg&shu
             text-decoration: none;
         }
         .container {
@@ -46,4 +46,7 @@
             padding: 10px 0;
             margin-top: 20px;
         }
-    
+    .img-1{
+        width: 20%;
+        height: 20%;
+    }
